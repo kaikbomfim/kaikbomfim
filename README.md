@@ -1,9 +1,38 @@
 ## Olá! Eu sou Kaik Bomfim.
 
+<img width="20" src="https://avatars.githubusercontent.com/u/62598536">&emsp;Graduando em Sistemas de Informação pelo Instituto Federal da Bahia <br>
+👨‍💻&emsp;Estagiário em Desenvolvimento de Software no SENAI CIMATEC <br>
+💪&emsp;"PERSISTÊNCIA. Nada nesse mundo pode superar a persistência"
+
+
 <div>
   <a href = "https://www.linkedin.com/in/kaikbomfim/"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaikbomfim@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
+
+## Experiência em
+
+<div align="center" style="display: inline_block">
+  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+## Projetos
+
+[![CaraCrachá](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=CaraCracha&border_color=46923C&bg_color=0D1117&title_color=46923C&text_color=8B949E&icon_color=46923C)](https://github.com/kaikbomfim/CaraCracha) &emsp; 
+[![video-reconhecimento](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=video-reconhecimento&border_color=2986cc&bg_color=0D1117&title_color=2986cc&text_color=8B949E&icon_color=2986cc)](https://github.com/kaikbomfim/video-reconhecimento)
+
+[![chico_assistente](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=chico_assistente)](https://github.com/kaikbomfim/chico_assistente) &emsp; 
+[![iron_men_bot](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=iron_men_bot)](https://github.com/kaikbomfim/iron_men_bot)
+
 
 <div align='center'>
  
@@ -12,14 +41,4 @@
 
 </div>
 
-## Experiência em
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Kaik-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Kaik-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaik-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Kaik-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kaik-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kaik-MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Kaik-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Kaik-Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
