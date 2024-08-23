@@ -28,7 +28,7 @@
 ## Projetos
 
 [![CaraCrachá](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=CaraCracha&border_color=46923C&bg_color=0D1117&title_color=46923C&text_color=8B949E&icon_color=46923C)](https://github.com/kaikbomfim/CaraCracha) &emsp; 
-[![video-reconhecimento](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=video-reconhecimento&border_color=2986cc&bg_color=0D1117&title_color=2986cc&text_color=8B949E&icon_color=2986cc)](https://github.com/kaikbomfim/video-reconhecimento)
+[![video-reconhecimento](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=video-reconhecimento&border_color=2986cc&bg_color=0D1117&title_color=2986cc&text_color=8B949E&icon_color=2986cc)](https://github.com/kaikbomfim/VideoReconhecimento)
 
 [![chico_assistente](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=chico_assistente&border_color=e1e4e8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e1e4e8)](https://github.com/kaikbomfim/chico_assistente) &emsp; 
 [![iron_men_bot](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=iron_men_bot&border_color=F2CB55&bg_color=0D1117&title_color=F2CB55&text_color=8B949E&icon_color=F2CB55)](https://github.com/kaikbomfim/iron_men_bot)
