@@ -27,7 +27,7 @@
 
 ## Projetos
 
-[![VideoReconhecimento](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=&border_color=2986cc&bg_color=0D1117&title_color=2986cc&text_color=8B949E&icon_color=2986cc)](https://github.com/kaikbomfim/)
+[![VideoReconhecimento](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=VideoReconhecimento&border_color=2986cc&bg_color=0D1117&title_color=2986cc&text_color=8B949E&icon_color=2986cc)](https://github.com/kaikbomfim/VideoReconhecimento)
 [![CaraCrachá](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=CaraCracha&border_color=46923C&bg_color=0D1117&title_color=46923C&text_color=8B949E&icon_color=46923C)](https://github.com/kaikbomfim/CaraCracha) &emsp; 
 
 [![chico_assistente](https://github-readme-stats.vercel.app/api/pin/?username=kaikbomfim&repo=chico_assistente&border_color=e1e4e8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e1e4e8)](https://github.com/kaikbomfim/chico_assistente) &emsp; 
