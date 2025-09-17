@@ -1,13 +1,9 @@
 ## Olá! Eu sou Kaik Bomfim e eu sou um Desenvolvedor Full Stack.
 
-
-
-
-
 <div align="center" style="display: inline_block">
   
   ![Kaik's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kaikbomfim&theme=transparent&show_icons=true&text_color=ffffff&hide_border=false&hide_title=true&height=100&text_bold=false)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikbomfim&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=8)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikbomfim&layout=compact&show_icons=true&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
   <a href = "https://www.linkedin.com/in/kaikbomfim/"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaikbomfim@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
